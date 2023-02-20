@@ -1,1 +1,1 @@
-# Blogging-Site---HTML-CSS
+# Blogging-Site - HTML & CSS
