@@ -1,2 +1,2 @@
 # Blogging-Site - HTML & CSS
-Responsive blogging site created using only html and css
+Responsive blogging site created by using only html and css.
